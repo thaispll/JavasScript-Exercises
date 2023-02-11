@@ -9,6 +9,6 @@
     "author": "Thais",
     "license": "ISC",
     "devDependencies": {
-        "tsd": "^0.15.1"
+        "tsd": "^0.25.0"
     }
 }
